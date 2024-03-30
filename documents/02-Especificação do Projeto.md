@@ -52,12 +52,15 @@
 
 ### Requisitos não Funcionais
 
-[Utilize o modelo de tabela abaixo para apresentar os requisitos não-funcionais]
+A tabela a seguir apresenta os requisitos não funcionais que o projeto deverá atender.
 
 |ID      | Descrição               |Prioridade |
 |--------|-------------------------|----|
-| RNF-01 |  ...                    | ...   | 
-| ...    |  ...                    | ...   | 
+| RNF-01 |  O sistema deve ser capaz de carregar as páginas de receitas em menos de 3 segundos, para garantir uma experiência de usuário rápida.  | ALTA | 
+| RNF-02 |  O sistema deve suportar simultaneamente pelo menos 1000 usuários ativos sem degradação significativa no desempenho.  | MÉDIA | 
+| RNF-03 |  O sistema deve ser facilmente escalável para acomodar um aumento de 50% no número de usuários sem a necessidade de alterações significativas na infraestrutura.  | MÉDIA |
+| RNF-04 |  O site deve ser compatível com os principais navegadores do mercado (Google Chrome, Firefox, Microsoft Edge).  | ALTA |
+| RNF-05 |  O site deverá ser responsivo permitindo a visualização em um celular de forma adequada.  | ALTA |
 
 **Prioridade: Alta / Média / Baixa. 
 
