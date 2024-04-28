@@ -1,27 +1,15 @@
 
 # Metodologia
 
-Esta seção descreve a organização da equipe para a execução das tarefas do projeto e as ferramentas utilizadas para a manutenção dos códigos e demais artefatos.
-
-
 ## Gerenciamento de Projeto
-A metodologia ágil escolhida para o desenvolvimento deste projeto foi o SCRUM, pois como citam Amaral, Fleury e Isoni (2019, p. 68), seus benefícios são a
-
-“visão clara dos resultados a entregar; ritmo e disciplina necessários à execução; definição de papéis e responsabilidades dos integrantes do projeto (Scrum Owner, Scrum Master e Team); empoderamento dos membros da equipe de projetos para atingir o desafio; conhecimento distribuído e compartilhado de forma colaborativa; ambiência favorável para crítica às ideias e não às pessoas.”
-
+Optamos pelo Scrum para gerenciar o desenvolvimento do site de culinária, pois ele nos permite dividir o trabalho em ciclos curtos (sprints), facilitando a entrega de valor de forma incremental. Com o Scrum, podemos priorizar tarefas, testar e ajustar o produto continuamente, respondendo rapidamente às mudanças e garantindo que o site atenda às expectativas do projeto. Essa abordagem nos permite melhorar continuamente o produto com base no feedback dos usuários.
 ### Divisão de Papéis
 
 A equipe utiliza o Scrum como base para definição do processo de desenvolvimento.
-[Adicione informações abaixo sobre a divisão de papéis entre os membros da equipe.]
-- Scrum Master: Nome de um membro da equipe, principal responsável pela gestão do projeto.
-- Product Owner: Nome de um membro da equipe, representante dos interesses de todos os envolvidos (Stakeholders), define as funcionalidades do produto e prioriza os itens de Product Backlog.
-- Equipe de Desenvolvimento: Nomes de todos os membros da equipe, pois todos os membros deverão implementar uma tela/funcionalidade.
-- Equipe de Design: Nomes dos membros da equipe que trabalharão com design.
-
-> **Links Úteis**:
-> - [11 Passos Essenciais para Implantar Scrum no seu 
-> Projeto](https://mindmaster.com.br/scrum-11-passos/)
-> - [Scrum em 9 minutos](https://www.youtube.com/watch?v=XfvQWnRgxG0)
+- Scrum Master: Rodrigo da Costa
+- Product Owner: Tatiana Haveroth
+- Equipe de Desenvolvimento: Rafael Douglas, Rodrigo da Costa e Tatiana Haveroth
+- Equipe de Design: Rafael Douglas, Rodrigo da Costa e Tatiana Haveroth
 
 ### Processo
 
