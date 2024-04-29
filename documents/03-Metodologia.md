@@ -13,48 +13,57 @@ A equipe utiliza o Scrum como base para definição do processo de desenvolvimen
 
 ### Processo
 
-[Adicione informações sobre detalhes da implementação do Scrum seguido pela equipe. A equipe poderá fazer uso de ferramentas on-line (GitHub Project ou Trello) para acompanhar o andamento do projeto, a execução das tarefas e o status de desenvolvimento da solução. O quadro Kanban deverá apresentar a estrutura abaixo. Inserir despois das informações uma imagem do Kanban do projeto.]
-- Backlog: recebe as tarefas a serem trabalhadas e representa o Product Backlog. Todas as atividades identificadas no decorrer do projeto também devem ser incorporadas a esta lista. 
-- To Do: Esta lista representa o Sprint Backlog. Este é o Sprint atual que estamos trabalhando. 
-- Doing: Quando uma tarefa tiver sido iniciada, ela é movida para cá. 
-- Done: nesta lista são colocadas as tarefas que passaram pelos testes e controle de qualidade e estão prontos para ser entregues ao usuário. Não há mais edições ou revisões necessárias, ele está agendado e pronto para a ação.
+Escolhemos o Trello para representar nosso método Kanban, pois oferece uma interface intuitiva para organizar e acompanhar tarefas. Ele nos permite visualizar o fluxo de trabalho, gerenciar prioridades e colaborar em tempo real, mantendo a equipe alinhada e atualizada sobre o progresso do projeto.
 
-> **Links Úteis**:
-> - [Project management, made simple](https://github.com/features/project-management/)
-> - [Sobre quadros de projeto](https://docs.github.com/pt/github/managing-your-work-on-github/about-project-boards)
-> - [Como criar Backlogs no Github](https://www.youtube.com/watch?v=RXEy6CFu9Hk)
-> - [Tutorial Slack](https://slack.com/intl/en-br/)
+- Backlog: Lista de todas as tarefas a serem feitas, incluindo aquelas identificadas durante o projeto.
+- To Do: Tarefas planejadas para o sprint atual
+- Doing: Tarefas em andamento. 
+- Done: Tarefas finalizadas e prontas para entrega ao usuário após passarem por testes e controle de qualidade.
+
+Assim, conseguimos acompanhar o desenvolvimento do projeto de uma forma organizada e eficaz.
+
+![image](https://github.com/rafa3772/Grupo-04-Receitas/assets/164439165/eb41b71b-3aaa-4edf-a517-a418a122981e)
 
 
 ### Etiquetas
-<p>As tarefas são, ainda, etiquetadas em função da natureza da atividade e seguem o seguinte esquema de cores/categorias:</p>
+<p>As tarefas são classificadas de acordo com o tipo de atividade e são identificadas usando um sistema de cores/categorias da seguinte forma:</p>
 
 <ul>
-  <li>Bug (Erro no código)</li>
   <li>Desenvolvimento (Development)</li>
   <li>Documentação (Documentation)</li>
   <li>Gerência de Projetos (Project Management)</li>
   <li>Infraestrutura (Infrastructure)</li>
-  <li>Testes (Tests)</li>
 </ul>
 
 <figure> 
-  <img src="https://user-images.githubusercontent.com/100447878/164068979-9eed46e1-9b44-461e-ab88-c2388e6767a1.png"
-    <figcaption>Figura 3 - Tela do esquema de cores e categorias</figcaption>
+  
+  ![image](https://github.com/rafa3772/Grupo-04-Receitas/assets/164439165/1a363b34-9436-4ec5-8dc5-b4838ec720fb)
+
 </figure> 
   
 ### Ferramentas
 
-[Descreva aqui as ferramentas empregadas no projeto e os ambiente de trabalho utilizados pela  equipe para desenvolvê-lo. Abrange a relação de ambientes utilizados, a estrutura para gestão do código fonte, além da definição do processo e ferramenta através dos quais a equipe se organiza (Gestão de Times).]
+Repositório de Código Fonte (GitHub):
+Utilizamos o GitHub como plataforma para hospedar o código fonte do nosso projeto. Ele serve como um repositório centralizado onde todos os arquivos de código são armazenados, versionados e gerenciados. Isso facilita a colaboração entre os membros da equipe e permite um controle preciso das alterações feitas no código ao longo do tempo.
 
-Os artefatos do projeto são desenvolvidos a partir de diversas plataformas e a relação dos ambientes com seu respectivo propósito é apresentada na tabela que se segue.
+Documentação do Projeto (GitHub):
+Para a documentação do projeto, também utilizamos o GitHub. Isso nos permite armazenar e compartilhar documentos importantes, como especificações de requisitos, diagramas de arquitetura, e quaisquer outros documentos relacionados ao projeto. A integração com o repositório de código fonte torna mais fácil manter a documentação atualizada e acessível para toda a equipe.
+
+Projetos de Interface (Figma):
+Para o design e prototipagem da interface do usuário, contamos com o Figma. Esta ferramenta nos permite criar wireframes, protótipos interativos e designs de alta fidelidade para as diferentes telas e elementos do nosso site. Além disso, o Figma oferece recursos de colaboração em tempo real, facilitando o trabalho em equipe e a revisão do design.
+
+Gerenciamento do Projeto (Trello):
+Para a organização e gerenciamento geral do projeto, confiamos no Trello. Esta plataforma baseada em quadros nos permite criar listas de tarefas, atribuir responsabilidades, acompanhar o progresso e priorizar o trabalho. Com o Trello, podemos manter todas as partes do projeto organizadas e alinhadas, desde o planejamento até a entrega.
+
+Hospedagem do Site:
+Até o momento, ainda não hospedamos o site, mas planejamos fazê-lo no futuro. A hospedagem do site nos permitirá torná-lo acessível ao público na internet, para que os usuários possam visitá-lo e interagir com o conteúdo que criamos. Estamos explorando opções de hospedagem para garantir que escolhamos a melhor solução para as necessidades do nosso projeto.
 
 | AMBIENTE                            | PLATAFORMA                         | LINK DE ACESSO                         |
 |-------------------------------------|------------------------------------|----------------------------------------|
-| Repositório de código fonte         | GitHub                             | http://....                            |
-| Documentos do projeto               | GitHub                             | http://....                            |
-| Projeto de Interface                | Figma                              | http://....                            |
-| Gerenciamento do Projeto            | GitHub Projects                    | http://....                            |
+| Repositório de código fonte         | GitHub                             | [REPOSITÓRIO](https://github.com)                            |
+| Documentos do projeto               | GitHub                             | [DOCUMENTOS DO PROJETO](https://github.com/ICEI-PUC-Minas-PMV-SInt/Grupo-04-Receitas/blob/main/documents/01-Documenta%C3%A7%C3%A3o%20de%20Contexto.md) |
+| Projeto de Interface                | Figma                              | [PROJETO DE INTERFACE](FIGMA.COM) |
+| Gerenciamento do Projeto            | Trello                             | [GERENCIAMENTO DO PROJETO](https://trello.com/b/trMMOfDE/kanban-site-de-culinaria) |
 | Hospedagem                          | GitHub Pages                       | http://....                            |
 
 
